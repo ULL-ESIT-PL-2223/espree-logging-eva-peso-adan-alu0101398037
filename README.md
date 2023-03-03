@@ -231,8 +231,6 @@ Y luego realizamos `npm init --scope=@alu0101398037` para crear el paquete en el
 
 Lo último que queda entonces es realizar `npm publish --access=public` para publicar el paquete.
 
-![npm publish](img/npm_publish.png)
-
 ## Instalando un paquete
 
 La manera de instalar el paquete ya se ha especificado en la sección "Guía de uso". Aquí mostraremos que se instala correctamente con esos pasos.
