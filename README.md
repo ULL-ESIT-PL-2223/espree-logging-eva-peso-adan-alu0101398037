@@ -120,7 +120,7 @@ Estos tests se pasan correctamente con un buen cubrimiento:
 
 ## Github Actions
 
-Para que las Github actions funcionen correctamente, creamos el siguiente fichero (`.github/workflow/nodejs.yml`):
+Para que las Github actions funcionen correctamente, creamos el siguiente fichero (`.github/workflows/nodejs.yml`):
 
 ```
 # Write your workflow for CI here
